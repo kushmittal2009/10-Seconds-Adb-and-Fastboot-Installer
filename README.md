@@ -7,7 +7,7 @@ To install adb and fastboot on linux its very easy. To install open terminal wit
 sudo apt-get install adb && fastboot
 ```
 <br>
-
+<br>
 
 
 To install adb and fastboot on windows 10 with my installer you have to download the installer from the releses tab. Next do this 
