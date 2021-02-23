@@ -6,7 +6,7 @@ To install adb and fastboot on linux its very easy. To install open terminal wit
 ```
 sudo apt-get install adb && fastboot
 ```
-
+<br>
 
 
 
