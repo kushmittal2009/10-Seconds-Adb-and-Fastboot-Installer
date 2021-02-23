@@ -8,6 +8,8 @@ sudo apt-get install adb && fastboot
 ```
 
 
+
+
 To install adb and fastboot on windows 10 with my installer you have to download the installer from the releses tab. Next do this 
 ```
 right click on adbfk.bat and click run as admin.
